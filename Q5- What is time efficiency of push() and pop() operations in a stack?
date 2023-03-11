@@ -1,0 +1,2 @@
+What is the time efficiency of push() and pop() operations in a stack?
+They take constant time to execute i.e. O(1) as this operation is very quick and does not depend on any loop, while or other statement for execution.
