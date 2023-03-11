@@ -1,0 +1,8 @@
+What is a stack?
+A stack is a linear data sructure. It follows the LIFO(Last in first out). Insertions and deletions are done at only one end of the stack. A stack consists of a top.
+When the stack it empty the value of top = -1.
+There are 3 operations allowed in a stack
+1.push - to insert an element in the stack.
+2.pop- to remove an element in the stack.
+3.peek- displaying the contents of stack.
+All the elements in the stack are pushed and popped from one end only i.e. top.
