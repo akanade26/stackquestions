@@ -1,0 +1,2 @@
+Explain why stack is a recursive data structure?
+A function calling itself is called recursive function. A stack is a recursive data structure as either its empty or it consists of a top and the rest which is a stack itself.
