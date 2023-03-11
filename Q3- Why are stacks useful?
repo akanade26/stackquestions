@@ -4,3 +4,5 @@ The implementaion of stacks is also simpler and easy.
 Stacks can be used for evaluting operators and operands. Stacks can be used in backtracking i.e. to check paranthesis or brackets in an expression.
 It can also be used to convert from one expression form to another.
 it also ensures that the function do not move on to next operation before completing the first one.
+They are also used to reverse strings
+to traverse the nodes of a binary tree
