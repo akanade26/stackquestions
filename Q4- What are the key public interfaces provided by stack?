@@ -1,0 +1,6 @@
+What are the key public interfaces provided by stack?
+push()
+pop()
+peek()
+isFull()
+isEmpty()
